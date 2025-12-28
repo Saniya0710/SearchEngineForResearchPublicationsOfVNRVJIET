@@ -65,5 +65,5 @@ The New Publication page features several parameters, which can sometimes be con
       - After successfull installation run the command ` npm start ` to run your frontend.
     - Backend running.
       - Open the terminal and type the command `cd backend` and then `npm i or npm install `
-      - After successfull installation eun the command ` npm run dev ` to run your backend.
+      - After successfull installation run the command ` npm run dev ` to run your backend.
 
